@@ -1,6 +1,6 @@
 /*
  * File: 100-elf_header.c
- * Auth: Michael Ndula
+ * Auth: houdinipapi
  */
 
 #include <elf.h>
