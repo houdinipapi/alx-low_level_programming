@@ -1,6 +1,6 @@
 /*
  * File: 3-cp.c
- * Auth: Michael Ndula
+ * Auth: houdinipapi
  */
 
 #include "main.h"
