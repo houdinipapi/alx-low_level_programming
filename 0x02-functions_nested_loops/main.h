@@ -1,5 +1,11 @@
-#ifndef HOLBERTON_H_INCLUDED
-#define HOLBERTON_H_INCLUDED
+#ifndef MAIN_H
+#define MAIN_H
+
+/**
+  * main - header file for prototypes
+  * void prototypes (void)
+  * int prototypes (int)
+  */
 
 int _putchar(char);
 void print_alphabet(void);
