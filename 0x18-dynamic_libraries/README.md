@@ -13,4 +13,4 @@
 ### 2. Let's call C functions from Python
 - `100-operations.so` - a dynamic library that contains C functions that can be called from Python.
 ### 3. Code injection: Win the Giga Millions!
-- `101-make_me_win.sh` - code injectin.
+- `101-make_me_win.sh` - code injection.
