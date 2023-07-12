@@ -10,7 +10,7 @@
  * Return: Index where the value is located.
  */
 
-int recursive_search(int *array, size_t size, int value)
+int binary_search(int *array, size_t size, int value)
 {
 	if (array == NULL || size == 0)
 		return (-1);
